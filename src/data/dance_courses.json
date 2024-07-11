@@ -1,0 +1,65 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Ballet",
+        "slug": "ballet",
+        "description": "An introduction to the fundamentals of ballet. Perfect for beginners with no prior experience.",
+        "price": 50,
+        "instructorName": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/images/ballet.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Hip-Hop",
+        "slug": "hip-hop",
+        "description": "Learn the basic moves and grooves of hip-hop dance. Suitable for all ages.",
+        "price": 40,
+        "instructorName": "Michael Smith",
+        "isFeatured": true,
+        "image": "/images/1.png"
+      },
+      {
+        "id": 3,
+        "title": "Contemporary",
+        "slug": "contemporary",
+        "description": "For advanced dancers, this course explores contemporary dance techniques and choreography.",
+        "price": 70,
+        "instructorName": "Sarah Lee",
+        "isFeatured": true,
+        "image": "/images/contemporary.png"
+      },
+      {
+        "id": 4,
+        "title": "Salsa",
+        "slug": "salsa",
+        "description": "Get started with salsa dancing with this beginner-friendly course. No partner required.",
+        "price": 45,
+        "instructorName": "Carlos Hernandez",
+        "isFeatured": true,
+        "image": "/images/salsa.png"
+      },
+      {
+        "id": 5,
+        "title": "Jazz",
+        "slug": "jazz",
+        "description": "Build on your jazz dance skills with intermediate techniques and routines.",
+        "price": 60,
+        "instructorName": "Jessica Martinez",
+        "isFeatured": true,
+        "image": "/images/2.png"
+      },
+      {
+        "id": 6,
+        "title": "Tap Dance",
+        "slug": "tap-dance",
+        "description": "Learn the foundational steps and rhythms of tap dance. Great for all skill levels.",
+        "price": 35,
+        "instructorName": "Tommy Williams",
+        "isFeatured": true,
+        "image": "/images/3.png"
+      }
+    ]
+  }
+  
